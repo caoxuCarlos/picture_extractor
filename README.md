@@ -1,2 +1,2 @@
 # picture_extractor
-Extract pictures in one excel file.
+Extract pictures from one excel file.
